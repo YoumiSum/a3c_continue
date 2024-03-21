@@ -1,0 +1,7 @@
+pybullet
+gym==0.17.3
+opencv-python
+tensorboardX
+tensorboard>=1.15
+setproctitle
+pycuda
